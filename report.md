@@ -5,11 +5,7 @@
 На тестирование затрачено: 10 мин
 
 В результате тестирования выявлены следующий bug:
-Information:java: Errors occurred while compiling module '1'
-Information:javac 11.0.1 was used to compile java sources
-Information:8/17/2020 10:37 AM - Build completed with 1 error and 0 warnings in 3 s 599 ms
-C:\Users\dsnay\IdeaProjects\1\src\main.java
-Error:(1, 8) java: class Main is public, should be declared in a file named Main.java
+https://github.com/dsnaydina/HT_javaforqa/issues/1#issue-687557300
 
  
 Описание процесса тестирования
